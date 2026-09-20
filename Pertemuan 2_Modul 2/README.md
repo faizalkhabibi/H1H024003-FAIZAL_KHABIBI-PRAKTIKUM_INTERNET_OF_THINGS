@@ -2,7 +2,7 @@
 
 ## Alat dan Bahan
 
-- Board ESP32 DevKit
+- Board ESP8266 DevKit
 - Kabel USB Micro-USB
 - Laptop/PC dengan Arduino IDE (sudah terpasang board manager ESP32)
 - Jaringan WiFi (router/hotspot smartphone) beserta SSID dan password
