@@ -3,10 +3,9 @@
 ## Alat dan Bahan
 
 - Board ESP32 DevKit
-- Sensor Suhu dan Kelembapan DHT22 *(Catatan: Pada praktikum ini digantikan dengan fungsi dummy/mock karena keterbatasan alat)*
-- Breadboard & Kabel Jumper
-- Kabel USB (Micro-USB/USB-C)
-- Laptop/PC dengan Arduino IDE (terpasang board manager ESP32, pustaka PubSubClient)
+- Sensor Suhu dan Kelembapan DHT22 *(Pada praktikum ini digantikan dengan fungsi dummy/mock karena keterbatasan alat)*
+- Kabel USB Micro
+- Laptop dengan Arduino IDE (terpasang board manager ESP32, pustaka PubSubClient)
 - Lingkungan Python 3 pada komputer/laptop
 - Jaringan WiFi yang terhubung ke internet
 - Broker MQTT publik `broker.hivemq.com` (port 1883)
